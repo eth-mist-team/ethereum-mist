@@ -24,14 +24,11 @@ A modern, community‑driven revival of the legendary Mist client: **secure desk
 ## 🚀 Quick Download
 
 <div align="center">
-
-[![Download for Windows](https://img.shields.io/badge/Windows-MistEthereum--latest.exe-0078D6?logo=windows&logoColor=white&style=flat-square)](https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.exe)
-&nbsp;
-[![Download for macOS](https://img.shields.io/badge/macOS-MistEthereum--latest.dmg-000000?logo=apple&logoColor=white&style=flat-square)](https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.dmg)
-&nbsp;
-[![Download for Linux](https://img.shields.io/badge/Linux-MistEthereum--latest.AppImage-FCC624?logo=linux&logoColor=black&style=flat-square)](https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.AppImage)
-
+  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.exe"><strong>Download for Windows (.exe)</strong></a> ·
+  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.dmg"><strong>Download for macOS (.dmg)</strong></a> ·
+  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.AppImage"><strong>Download for Linux (.AppImage)</strong></a>
 </div>
+
 
 
 > **Verify the binary.** SHA‑256 and GPG signatures are published on every release page.
