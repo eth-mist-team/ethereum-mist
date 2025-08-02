@@ -146,4 +146,7 @@ Released under the **GNU GPL v3**. See LICENSE for full text.
 
 ---
 
+Looking for more information, updates, or documentation? Visit the official Ethereum Mist website:  
+👉 **[ethereummist.org](https://ethereummist.org)**
+
 **Meta‑description:** Ethereum Mist is a secure desktop Ethereum wallet and dApp browser for Windows, macOS and Linux, letting you manage ETH, ERC‑20 tokens and explore decentralized applications locally without browser plugins.
